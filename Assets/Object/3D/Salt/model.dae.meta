@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 97ef8a9f08d2cd04491ae4b71a52ceb3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Component_1
+    100002: Component_2
+    100004: Group3_3
+    100006: Group5_1
+    100008: group_0
+    100010: group_1
+    100012: Group_4
+    100014: ID24
+    100016: instance_0
+    100018: instance_1
+    100020: instance_2
+    100022: instance_3
+    100024: instance_4
+    100026: //RootNode
+    100028: skp_camera_Last_Saved_SketchUp_View
+    100030: ID16
+    100032: ID32
+    100034: ID40
+    400000: Component_1
+    400002: Component_2
+    400004: Group3_3
+    400006: Group5_1
+    400008: group_0
+    400010: group_1
+    400012: Group_4
+    400014: ID24
+    400016: instance_0
+    400018: instance_1
+    400020: instance_2
+    400022: instance_3
+    400024: instance_4
+    400026: //RootNode
+    400028: skp_camera_Last_Saved_SketchUp_View
+    400030: ID16
+    400032: ID32
+    400034: ID40
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: DSC_0845
+    2100002: DSC_08456
+    2100004: _03
+    2100006: material_2
+    2100008: _01
+    2100010: material_1
+    2100012: CLC2-DECO-10-BOUTEIL
+    2100014: material
+    2300000: Component_1
+    2300002: Group3_3
+    2300004: Group5_1
+    2300006: group_0
+    2300008: group_1
+    2300010: Group_4
+    2300012: ID24
+    2300014: ID16
+    2300016: ID32
+    2300018: ID40
+    2300020: //RootNode
+    3300000: Component_1
+    3300002: Group3_3
+    3300004: Group5_1
+    3300006: group_0
+    3300008: group_1
+    3300010: Group_4
+    3300012: ID24
+    3300014: ID16
+    3300016: ID32
+    3300018: ID40
+    3300020: //RootNode
+    4300000: group_0
+    4300002: ID24
+    4300004: group_1
+    4300006: Group5_1
+    4300008: Group3_3
+    4300010: Group_4
+    4300012: Component_1
+    4300014: SketchUp
+    4300016: ID16
+    4300018: ID32
+    4300020: ID40
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

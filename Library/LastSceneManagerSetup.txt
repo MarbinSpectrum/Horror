@@ -1,0 +1,4 @@
+sceneSetups:
+- path: E:/Program Files/Unity/Test/garbage hero/Cube Snake/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
