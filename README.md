@@ -3,6 +3,14 @@
 
 <플레이 영상 : https://www.youtube.com/watch?v=w-HPS8Sm3T8>
 
+<h3>조작</h3>
+
+이동 : WASD
+
+선택 및 아이템획득 : 마우스
+  
+ 
+ 
 3D게임을 처음만들어봐서 좀 어설퍼여.. ㅠ
 
 ![InGame0](./Image/InGame0.png)
