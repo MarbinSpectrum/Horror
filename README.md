@@ -12,3 +12,5 @@
 ![InGame2](./Image/InGame2.png)
 
 ![InGame3](./Image/InGame3.png)
+
+<h1> ※ Sample 파일에 게임이 들어있어요!! ※ </h1>
